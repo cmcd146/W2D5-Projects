@@ -1,0 +1,30 @@
+div {
+  
+  min-width: 10px;
+  
+  padding: 50px;
+  border: 5px solid black;
+}
+
+#first-div {
+  background-color: #39cccc;
+}
+
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+}
+
+#third-div {
+  height: 600px;
+  width: 200px;
+  background-color: green;
+}
+
+#fourth-div {
+  width: 500px;
+}
+
+p {
+  background-color: #7fdbff;
+}
